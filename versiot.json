@@ -1,3 +1,6 @@
 [
-  { nimi: "hoitoajat", versio: "1.0.6"}
+  { 
+    "nimi": "hoitoajat", 
+    "versio": "1.0.6"
+  }
 ]
